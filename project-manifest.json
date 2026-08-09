@@ -1,0 +1,22 @@
+{
+  "project": "RRD FINAL",
+  "entry": "index.html",
+  "static_hosting": "GitHub Pages",
+  "media": [
+    "assets/images",
+    "assets/videos",
+    "assets/panoramas",
+    "assets/icons"
+  ],
+  "uploads": [
+    "uploads/projects",
+    "uploads/videos",
+    "uploads/panoramas"
+  ],
+  "future_backend": [
+    "admin",
+    "api"
+  ],
+  "production_storage": "Cloudflare R2",
+  "status": "prototype frontend + production folder scaffold"
+}
